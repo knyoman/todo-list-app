@@ -25,3 +25,12 @@ li {
     padding: 10px;
     border-radius: 4px;
 }
+
+.btn-hapus {
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    float: right;
+    cursor: pointer;
+}
